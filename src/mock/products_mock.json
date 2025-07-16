@@ -1,0 +1,2960 @@
+[
+  {
+    "id": "90831566-721e-45b2-857c-2214e1d23a01",
+    "stock": true,
+    "name": "Adjustable Garden Rake",
+    "price": 22.99,
+    "category": "Garden",
+    "description": "Heavy-duty rake with adjustable width for different gardening needs.",
+    "image": "http://dummyimage.com/150x.png/dddddd/000000",
+    "comments": []
+  },
+  {
+    "id": "226a1103-77ec-4482-9a7d-61d6b25972cd",
+    "stock": false,
+    "name": "BBQ Lentil Chips",
+    "price": 0,
+    "category": "Food - Snacks",
+    "description": "Savory lentil chips with BBQ flavor",
+    "image": "http://dummyimage.com/150x.png/5fa2dd/ffffff",
+    "comments": [
+      {
+        "rating": 0,
+        "content": "Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque."
+      },
+      {
+        "rating": 0,
+        "content": "Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy."
+      }
+    ]
+  },
+  {
+    "id": "4bc04b94-77c6-44e5-b5e3-3971968d7a44",
+    "stock": false,
+    "name": "Chocolate Hazelnut Granola",
+    "price": 0,
+    "category": "Food - Cereal",
+    "description": "Crunchy granola with chocolate and hazelnuts for breakfast.",
+    "image": "http://dummyimage.com/150x.png/dddddd/000000",
+    "comments": []
+  },
+  {
+    "id": "df5a7d38-d2de-4307-bfd0-fd693188f196",
+    "stock": true,
+    "name": "Weighted Jump Rope with Counter",
+    "price": 14.99,
+    "category": "Fitness",
+    "description": "Jump rope that counts your jumps for tracking workouts.",
+    "image": "http://dummyimage.com/150x.png/5fa2dd/ffffff",
+    "comments": [
+      {
+        "rating": 3,
+        "content": "Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam."
+      },
+      {
+        "rating": 4,
+        "content": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat."
+      },
+      {
+        "rating": 5,
+        "content": "Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui."
+      },
+      {
+        "rating": 0,
+        "content": "Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti."
+      },
+      {
+        "rating": 3,
+        "content": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus."
+      },
+      {
+        "rating": 5,
+        "content": "Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
+      },
+      {
+        "rating": 5,
+        "content": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque."
+      },
+      {
+        "rating": 3,
+        "content": "Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo."
+      },
+      {
+        "rating": 5,
+        "content": "Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien."
+      }
+    ]
+  },
+  {
+    "id": "e9a7c154-52de-445a-a8b0-80de5e152f4f",
+    "stock": true,
+    "name": "Eco-Friendly Yoga Mat",
+    "price": 39.99,
+    "category": "Fitness",
+    "description": "Made from biodegradable materials for eco-conscious yogis.",
+    "image": "http://dummyimage.com/150x.png/cc0000/ffffff",
+    "comments": [
+      {
+        "rating": 5,
+        "content": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis."
+      },
+      { "rating": 4, "content": "Aliquam erat volutpat." },
+      {
+        "rating": 0,
+        "content": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat."
+      },
+      {
+        "rating": 1,
+        "content": "Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien."
+      },
+      { "rating": 5, "content": "Etiam justo." },
+      {
+        "rating": 1,
+        "content": "Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim."
+      },
+      {
+        "rating": 5,
+        "content": "Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet."
+      }
+    ]
+  },
+  {
+    "id": "1c4bd3c2-a19c-4e0f-938b-755fb7824550",
+    "stock": false,
+    "name": "Sun-Dried Tomato Pesto",
+    "price": 0,
+    "category": "Food - Condiments",
+    "description": "A rich pesto made with sun-dried tomatoes and pine nuts.",
+    "image": "http://dummyimage.com/150x.png/cc0000/ffffff",
+    "comments": [
+      {
+        "rating": 1,
+        "content": "Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui."
+      },
+      {
+        "rating": 3,
+        "content": "Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante."
+      },
+      {
+        "rating": 4,
+        "content": "Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo."
+      },
+      {
+        "rating": 2,
+        "content": "Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa."
+      },
+      { "rating": 0, "content": "Pellentesque at nulla." },
+      {
+        "rating": 4,
+        "content": "Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio."
+      },
+      { "rating": 4, "content": "Morbi a ipsum. Integer a nibh." },
+      {
+        "rating": 4,
+        "content": "Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque."
+      }
+    ]
+  },
+  {
+    "id": "8d31f48e-9d06-42f6-a128-c8b4f5896709",
+    "stock": false,
+    "name": "Adjustable Dog Harness",
+    "price": 0,
+    "category": "Pets",
+    "description": "Comfortable and adjustable harness for dogs.",
+    "image": "http://dummyimage.com/150x.png/dddddd/000000",
+    "comments": [
+      {
+        "rating": 3,
+        "content": "Nulla tellus. In sagittis dui vel nisl. Duis ac nibh."
+      },
+      {
+        "rating": 5,
+        "content": "Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo."
+      },
+      {
+        "rating": 4,
+        "content": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus."
+      },
+      {
+        "rating": 5,
+        "content": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum."
+      }
+    ]
+  },
+  {
+    "id": "66d9f47b-4168-479c-9bfb-4c817c33ab11",
+    "stock": false,
+    "name": "Smart Fitness Scale",
+    "price": 0,
+    "category": "Fitness",
+    "description": "Bluetooth scale that tracks body composition through an app.",
+    "image": "http://dummyimage.com/150x.png/ff4444/ffffff",
+    "comments": [
+      {
+        "rating": 2,
+        "content": "Quisque ut erat. Curabitur gravida nisi at nibh."
+      },
+      {
+        "rating": 3,
+        "content": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus."
+      },
+      {
+        "rating": 5,
+        "content": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui."
+      },
+      {
+        "rating": 0,
+        "content": "Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat."
+      },
+      {
+        "rating": 2,
+        "content": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat."
+      }
+    ]
+  },
+  {
+    "id": "671f51cf-2e77-48f9-a3eb-60b9d4763874",
+    "stock": true,
+    "name": "Compact Umbrella",
+    "price": 12.99,
+    "category": "Accessories",
+    "description": "Portable and lightweight umbrella for protection from rain.",
+    "image": "http://dummyimage.com/150x.png/5fa2dd/ffffff",
+    "comments": [
+      {
+        "rating": 3,
+        "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
+      },
+      {
+        "rating": 5,
+        "content": "Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa."
+      },
+      {
+        "rating": 0,
+        "content": "Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci."
+      },
+      {
+        "rating": 4,
+        "content": "Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo."
+      },
+      {
+        "rating": 1,
+        "content": "Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio."
+      },
+      { "rating": 2, "content": "Ut at dolor quis odio consequat varius." }
+    ]
+  },
+  {
+    "id": "cffb0b25-ae2b-48f0-8df9-c6bfef7e59de",
+    "stock": false,
+    "name": "Veggie Chips Variety Pack",
+    "price": 0,
+    "category": "Food - Snacks",
+    "description": "A colorful variety of crunchy veggie chips for snacking.",
+    "image": "http://dummyimage.com/150x.png/ff4444/ffffff",
+    "comments": [
+      {
+        "rating": 0,
+        "content": "Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh."
+      },
+      { "rating": 3, "content": "Nunc rhoncus dui vel sem. Sed sagittis." },
+      {
+        "rating": 5,
+        "content": "Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante."
+      }
+    ]
+  },
+  {
+    "id": "ebf649c0-a496-4aed-8265-4cf6e3100e71",
+    "stock": true,
+    "name": "Sweet Chili Thai Sauce",
+    "price": 3.49,
+    "category": "Food - Condiments",
+    "description": "Tangy sweet chili sauce perfect for dipping or cooking.",
+    "image": "http://dummyimage.com/150x.png/cc0000/ffffff",
+    "comments": [
+      {
+        "rating": 1,
+        "content": "Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue."
+      },
+      {
+        "rating": 4,
+        "content": "In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl."
+      },
+      {
+        "rating": 5,
+        "content": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue."
+      },
+      {
+        "rating": 2,
+        "content": "Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus."
+      },
+      {
+        "rating": 4,
+        "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc."
+      },
+      {
+        "rating": 2,
+        "content": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris."
+      },
+      {
+        "rating": 5,
+        "content": "Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      },
+      {
+        "rating": 4,
+        "content": "Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
+      },
+      {
+        "rating": 2,
+        "content": "Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis."
+      }
+    ]
+  },
+  {
+    "id": "f987e8bd-8344-47bf-a680-b15d53e47e1c",
+    "stock": false,
+    "name": "Non-Stick Baking Sheets",
+    "price": 0,
+    "category": "Kitchen",
+    "description": "Set of baking sheets for effortless baking.",
+    "image": "http://dummyimage.com/150x.png/cc0000/ffffff",
+    "comments": [
+      {
+        "rating": 0,
+        "content": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum."
+      },
+      {
+        "rating": 2,
+        "content": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit."
+      },
+      {
+        "rating": 1,
+        "content": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat."
+      }
+    ]
+  },
+  {
+    "id": "4ca3985b-88e8-42e8-aeac-5b4a20770e40",
+    "stock": true,
+    "name": "LED Makeup Mirror",
+    "price": 39.99,
+    "category": "Beauty",
+    "description": "Illuminated vanity mirror with adjustable brightness settings.",
+    "image": "http://dummyimage.com/150x.png/dddddd/000000",
+    "comments": [
+      {
+        "rating": 3,
+        "content": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum."
+      },
+      {
+        "rating": 4,
+        "content": "Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst."
+      }
+    ]
+  },
+  {
+    "id": "7bf32748-d6e3-4f64-a174-67620cee1181",
+    "stock": true,
+    "name": "Feta Cheese Crumbles",
+    "price": 2.49,
+    "category": "Food - Dairy",
+    "description": "Crumbled feta cheese, perfect for salads and Mediterranean dishes.",
+    "image": "http://dummyimage.com/150x.png/5fa2dd/ffffff",
+    "comments": [
+      {
+        "rating": 4,
+        "content": "Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque."
+      },
+      {
+        "rating": 5,
+        "content": "Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet."
+      },
+      {
+        "rating": 1,
+        "content": "In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna."
+      },
+      {
+        "rating": 3,
+        "content": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl."
+      },
+      {
+        "rating": 0,
+        "content": "Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla."
+      },
+      {
+        "rating": 5,
+        "content": "Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst."
+      },
+      { "rating": 3, "content": "Donec posuere metus vitae ipsum." },
+      { "rating": 1, "content": "Morbi non quam nec dui luctus rutrum." },
+      {
+        "rating": 2,
+        "content": "Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci."
+      },
+      {
+        "rating": 0,
+        "content": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti."
+      }
+    ]
+  },
+  {
+    "id": "e3824116-baa5-4b1f-8900-5848e34b3f5b",
+    "stock": true,
+    "name": "Bamboo Bathtub Caddy",
+    "price": 34.99,
+    "category": "Home",
+    "description": "Expandable caddy for holding books, phones, and snacks while in the bath.",
+    "image": "http://dummyimage.com/150x.png/ff4444/ffffff",
+    "comments": [
+      {
+        "rating": 5,
+        "content": "Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus."
+      }
+    ]
+  },
+  {
+    "id": "00a8be2b-7e3d-4f84-838c-7d9c794673d2",
+    "stock": true,
+    "name": "Portable Bluetooth Keyboard",
+    "price": 39.99,
+    "category": "Electronics",
+    "description": "Compact keyboard for tablets and smartphones.",
+    "image": "http://dummyimage.com/150x.png/ff4444/ffffff",
+    "comments": [
+      {
+        "rating": 4,
+        "content": "Vivamus tortor. Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum."
+      },
+      {
+        "rating": 4,
+        "content": "Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla."
+      },
+      {
+        "rating": 2,
+        "content": "Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+      },
+      {
+        "rating": 3,
+        "content": "Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue."
+      },
+      {
+        "rating": 4,
+        "content": "In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue."
+      }
+    ]
+  },
+  {
+    "id": "29551109-830b-4caf-99e6-25a8a3c27f28",
+    "stock": true,
+    "name": "Vanilla Protein Powder",
+    "price": 24.99,
+    "category": "Food - Health/Protein",
+    "description": "A high-quality protein powder perfect for smoothies and baking.",
+    "image": "http://dummyimage.com/150x.png/5fa2dd/ffffff",
+    "comments": [
+      {
+        "rating": 1,
+        "content": "Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc."
+      },
+      { "rating": 4, "content": "Pellentesque viverra pede ac diam." },
+      {
+        "rating": 5,
+        "content": "Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci."
+      },
+      {
+        "rating": 5,
+        "content": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque."
+      }
+    ]
+  },
+  {
+    "id": "727c453f-43e3-4df5-b4c5-f5a53341084e",
+    "stock": true,
+    "name": "Vegan Tacos",
+    "price": 7.49,
+    "category": "Food - Frozen Foods",
+    "description": "Frozen vegan tacos filled with plant-based protein and spices.",
+    "image": "http://dummyimage.com/150x.png/5fa2dd/ffffff",
+    "comments": [
+      {
+        "rating": 0,
+        "content": "Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst."
+      },
+      {
+        "rating": 2,
+        "content": "Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim."
+      },
+      {
+        "rating": 5,
+        "content": "Vivamus in felis eu sapien cursus vestibulum. Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc."
+      },
+      {
+        "rating": 4,
+        "content": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy."
+      },
+      {
+        "rating": 0,
+        "content": "In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi."
+      },
+      {
+        "rating": 1,
+        "content": "Aliquam quis turpis eget elit sodales scelerisque."
+      },
+      {
+        "rating": 0,
+        "content": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum."
+      },
+      {
+        "rating": 0,
+        "content": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
+      },
+      {
+        "rating": 3,
+        "content": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis."
+      }
+    ]
+  },
+  {
+    "id": "3f0217d6-19b2-4e34-b102-eeee6853b881",
+    "stock": false,
+    "name": "Portable Solar Phone Charger",
+    "price": 0,
+    "category": "Electronics",
+    "description": "Eco-friendly charger that uses solar energy for powering devices.",
+    "image": "http://dummyimage.com/150x.png/cc0000/ffffff",
+    "comments": [
+      {
+        "rating": 2,
+        "content": "Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh."
+      },
+      {
+        "rating": 2,
+        "content": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus."
+      },
+      {
+        "rating": 4,
+        "content": "Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat."
+      },
+      {
+        "rating": 5,
+        "content": "Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+      },
+      {
+        "rating": 5,
+        "content": "Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante."
+      },
+      {
+        "rating": 4,
+        "content": "Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus."
+      },
+      {
+        "rating": 1,
+        "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante."
+      },
+      {
+        "rating": 2,
+        "content": "Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus."
+      }
+    ]
+  },
+  {
+    "id": "46df632a-e117-4a7a-be63-c2cbc1db991f",
+    "stock": true,
+    "name": "Nut Mix",
+    "price": 5.99,
+    "category": "Food - Snacks",
+    "description": "A blend of mixed nuts for snacking.",
+    "image": "http://dummyimage.com/150x.png/ff4444/ffffff",
+    "comments": [
+      {
+        "rating": 2,
+        "content": "Donec posuere metus vitae ipsum. Aliquam non mauris."
+      },
+      { "rating": 0, "content": "In hac habitasse platea dictumst." },
+      {
+        "rating": 1,
+        "content": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros."
+      },
+      {
+        "rating": 0,
+        "content": "Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus."
+      }
+    ]
+  },
+  {
+    "id": "9458c143-0c6c-407d-900a-f469032f667e",
+    "stock": true,
+    "name": "Oven Thermometer",
+    "price": 11.99,
+    "category": "Kitchen",
+    "description": "High-precision oven thermometer for accurate cooking.",
+    "image": "http://dummyimage.com/150x.png/5fa2dd/ffffff",
+    "comments": [
+      {
+        "rating": 4,
+        "content": "Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo."
+      },
+      { "rating": 2, "content": "Nulla suscipit ligula in lacus." },
+      { "rating": 5, "content": "Nulla nisl." },
+      {
+        "rating": 2,
+        "content": "Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum."
+      },
+      {
+        "rating": 1,
+        "content": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus."
+      }
+    ]
+  },
+  {
+    "id": "fcb975c4-56e9-4556-87b6-c5006dd48a7d",
+    "stock": true,
+    "name": "Coconut Water",
+    "price": 2.49,
+    "category": "Food - Beverages",
+    "description": "Refreshing coconut water, perfect for hydration.",
+    "image": "http://dummyimage.com/150x.png/dddddd/000000",
+    "comments": [
+      {
+        "rating": 1,
+        "content": "Nulla facilisi. Cras non velit nec nisi vulputate nonummy."
+      },
+      {
+        "rating": 1,
+        "content": "Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim."
+      }
+    ]
+  },
+  {
+    "id": "495cec64-4859-45ef-9257-ffd8bd4d3bc2",
+    "stock": false,
+    "name": "Honey Mustard Pretzel Bites",
+    "price": 0,
+    "category": "Food - Snacks",
+    "description": "Delicious pretzel bites with a sweet honey mustard flavor, perfect for dipping.",
+    "image": "http://dummyimage.com/150x.png/5fa2dd/ffffff",
+    "comments": [
+      {
+        "rating": 4,
+        "content": "Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue."
+      },
+      {
+        "rating": 3,
+        "content": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio."
+      }
+    ]
+  },
+  {
+    "id": "39d87010-3926-4c8f-9c91-602ed976ea5a",
+    "stock": true,
+    "name": "Buffalo Style Cauliflower Bites",
+    "price": 5.49,
+    "category": "Food - Frozen Vegetables",
+    "description": "Frozen cauliflower bites coated in spicy buffalo sauce, ready to bake and enjoy as an appetizer.",
+    "image": "http://dummyimage.com/150x.png/5fa2dd/ffffff",
+    "comments": [
+      {
+        "rating": 2,
+        "content": "Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla."
+      },
+      {
+        "rating": 2,
+        "content": "In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa."
+      },
+      {
+        "rating": 1,
+        "content": "In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices."
+      },
+      {
+        "rating": 4,
+        "content": "Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum."
+      },
+      {
+        "rating": 2,
+        "content": "Proin risus. Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante."
+      },
+      {
+        "rating": 3,
+        "content": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi."
+      },
+      {
+        "rating": 0,
+        "content": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus."
+      },
+      {
+        "rating": 0,
+        "content": "Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt."
+      }
+    ]
+  },
+  {
+    "id": "bb10e602-2ad5-4e10-b772-3d8daa7ab39d",
+    "stock": true,
+    "name": "Magnet Travel Fridge Magnets",
+    "price": 12.99,
+    "category": "Accessories",
+    "description": "Fun tourist magnets from around the world for your fridge.",
+    "image": "http://dummyimage.com/150x.png/dddddd/000000",
+    "comments": [
+      {
+        "rating": 1,
+        "content": "Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum."
+      },
+      {
+        "rating": 0,
+        "content": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus."
+      },
+      {
+        "rating": 5,
+        "content": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo."
+      },
+      {
+        "rating": 0,
+        "content": "In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt."
+      },
+      {
+        "rating": 5,
+        "content": "Proin risus. Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend."
+      }
+    ]
+  },
+  {
+    "id": "71ff61f3-6ecf-4131-9db7-05a765be3839",
+    "stock": false,
+    "name": "Mint Chocolate Chip Ice Cream",
+    "price": 0,
+    "category": "Food - Frozen Desserts",
+    "description": "Creamy ice cream with refreshing mint flavor and chocolate chips.",
+    "image": "http://dummyimage.com/150x.png/dddddd/000000",
+    "comments": [
+      {
+        "rating": 3,
+        "content": "Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis."
+      },
+      { "rating": 5, "content": "In sagittis dui vel nisl." }
+    ]
+  },
+  {
+    "id": "dcaa13b9-d62b-460e-9f1c-f53c26ed3224",
+    "stock": false,
+    "name": "Wall-Mounted Organizer",
+    "price": 0,
+    "category": "Home",
+    "description": "Practical organizer for keeping your home tidy and clutter-free.",
+    "image": "http://dummyimage.com/150x.png/cc0000/ffffff",
+    "comments": [
+      {
+        "rating": 2,
+        "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis."
+      },
+      {
+        "rating": 5,
+        "content": "Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus."
+      },
+      {
+        "rating": 5,
+        "content": "Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia."
+      },
+      { "rating": 5, "content": "In quis justo." },
+      {
+        "rating": 0,
+        "content": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem."
+      }
+    ]
+  },
+  {
+    "id": "559820df-3786-498c-9bce-e82359f7e661",
+    "stock": true,
+    "name": "Butternut Squash Ravioli",
+    "price": 6.29,
+    "category": "Food - Frozen Foods",
+    "description": "Delicate ravioli filled with roasted butternut squash and spices, perfect with a sage butter sauce.",
+    "image": "http://dummyimage.com/150x.png/ff4444/ffffff",
+    "comments": [
+      {
+        "rating": 2,
+        "content": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+      },
+      {
+        "rating": 4,
+        "content": "Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue."
+      },
+      {
+        "rating": 0,
+        "content": "Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo."
+      }
+    ]
+  },
+  {
+    "id": "4d4007bd-c000-4f2a-a9f8-7285c35d0e25",
+    "stock": false,
+    "name": "Honey Garlic Sauce",
+    "price": 0,
+    "category": "Food - Sauces",
+    "description": "A delicious sauce perfect for stir-frying or glazing meats.",
+    "image": "http://dummyimage.com/150x.png/dddddd/000000",
+    "comments": [
+      {
+        "rating": 5,
+        "content": "Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros."
+      },
+      {
+        "rating": 2,
+        "content": "Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum."
+      },
+      {
+        "rating": 1,
+        "content": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla."
+      },
+      {
+        "rating": 1,
+        "content": "In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh."
+      }
+    ]
+  },
+  {
+    "id": "102e85fc-1c5b-42be-a69b-ffd756a148ec",
+    "stock": true,
+    "name": "Pine Nuts",
+    "price": 7.99,
+    "category": "Food - Nuts",
+    "description": "Nutty flavor perfect for pesto and salads.",
+    "image": "http://dummyimage.com/150x.png/ff4444/ffffff",
+    "comments": [
+      {
+        "rating": 2,
+        "content": "In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus."
+      },
+      {
+        "rating": 3,
+        "content": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est."
+      },
+      {
+        "rating": 5,
+        "content": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc."
+      },
+      {
+        "rating": 3,
+        "content": "Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus."
+      },
+      {
+        "rating": 1,
+        "content": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum."
+      }
+    ]
+  },
+  {
+    "id": "24c4eb3b-966e-46d6-8d3c-9e9af8e3de0f",
+    "stock": true,
+    "name": "Legging Pants",
+    "price": 34.99,
+    "category": "Clothing - Activewear",
+    "description": "Comfortable and stretchy legging pants perfect for workouts or daily wear.",
+    "image": "http://dummyimage.com/150x.png/ff4444/ffffff",
+    "comments": [
+      {
+        "rating": 0,
+        "content": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim."
+      },
+      {
+        "rating": 5,
+        "content": "Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa."
+      },
+      {
+        "rating": 3,
+        "content": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      }
+    ]
+  },
+  {
+    "id": "6956c76f-549d-463c-835e-3afb264defb9",
+    "stock": false,
+    "name": "Wireless Gaming Headset",
+    "price": 0,
+    "category": "Gaming",
+    "description": "Comfortable headset with surround sound for immersive gaming.",
+    "image": "http://dummyimage.com/150x.png/cc0000/ffffff",
+    "comments": [
+      {
+        "rating": 1,
+        "content": "Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum."
+      },
+      {
+        "rating": 0,
+        "content": "Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue."
+      },
+      {
+        "rating": 0,
+        "content": "In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat."
+      }
+    ]
+  },
+  {
+    "id": "e663719d-0fbd-4a88-b59c-0dd8b0c352c0",
+    "stock": false,
+    "name": "Classic Leather Wallet",
+    "price": 0,
+    "category": "Clothing - Accessories",
+    "description": "A sleek leather wallet that combines style and functionality.",
+    "image": "http://dummyimage.com/150x.png/ff4444/ffffff",
+    "comments": [
+      {
+        "rating": 1,
+        "content": "Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla."
+      },
+      {
+        "rating": 2,
+        "content": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst."
+      },
+      {
+        "rating": 4,
+        "content": "Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh."
+      },
+      {
+        "rating": 2,
+        "content": "Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede."
+      },
+      {
+        "rating": 4,
+        "content": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc."
+      },
+      {
+        "rating": 2,
+        "content": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc."
+      },
+      {
+        "rating": 0,
+        "content": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt."
+      },
+      {
+        "rating": 5,
+        "content": "Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc."
+      },
+      {
+        "rating": 1,
+        "content": "Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum."
+      },
+      {
+        "rating": 4,
+        "content": "Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam."
+      }
+    ]
+  },
+  {
+    "id": "fd631814-c669-47ad-a703-96910cb26537",
+    "stock": true,
+    "name": "Almond Butter Crunch Bar",
+    "price": 1.99,
+    "category": "Food - Snacks",
+    "description": "Nutritious snack bar made with almond butter and protein.",
+    "image": "http://dummyimage.com/150x.png/5fa2dd/ffffff",
+    "comments": [
+      {
+        "rating": 2,
+        "content": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo."
+      },
+      {
+        "rating": 4,
+        "content": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices."
+      },
+      {
+        "rating": 4,
+        "content": "Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus."
+      },
+      { "rating": 3, "content": "Donec semper sapien a libero." },
+      {
+        "rating": 2,
+        "content": "Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum."
+      }
+    ]
+  },
+  {
+    "id": "287223c1-2d85-4df6-8b88-59b1e3dee30d",
+    "stock": false,
+    "name": "Honey Sesame Cashews",
+    "price": 0,
+    "category": "Food - Snacks",
+    "description": "Roasted cashews coated in honey and sesame seeds for a sweet treat.",
+    "image": "http://dummyimage.com/150x.png/ff4444/ffffff",
+    "comments": [
+      {
+        "rating": 3,
+        "content": "In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl."
+      },
+      {
+        "rating": 3,
+        "content": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor."
+      },
+      {
+        "rating": 4,
+        "content": "Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+      },
+      {
+        "rating": 4,
+        "content": "Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      },
+      {
+        "rating": 0,
+        "content": "Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus."
+      },
+      {
+        "rating": 1,
+        "content": "Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est."
+      },
+      {
+        "rating": 1,
+        "content": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem."
+      },
+      {
+        "rating": 3,
+        "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices."
+      }
+    ]
+  },
+  {
+    "id": "28e74920-638e-4583-bb19-f5e6a555e370",
+    "stock": true,
+    "name": "Portable Solar Generator",
+    "price": 399.99,
+    "category": "Outdoor",
+    "description": "Eco-friendly generator for outdoor adventures.",
+    "image": "http://dummyimage.com/150x.png/cc0000/ffffff",
+    "comments": [
+      {
+        "rating": 2,
+        "content": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo."
+      },
+      { "rating": 2, "content": "Praesent blandit lacinia erat." },
+      {
+        "rating": 5,
+        "content": "Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis."
+      },
+      {
+        "rating": 0,
+        "content": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero."
+      },
+      {
+        "rating": 2,
+        "content": "Pellentesque ultrices mattis odio. Donec vitae nisi."
+      },
+      {
+        "rating": 0,
+        "content": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem."
+      },
+      {
+        "rating": 1,
+        "content": "Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis."
+      },
+      {
+        "rating": 5,
+        "content": "Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est."
+      },
+      {
+        "rating": 5,
+        "content": "Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum."
+      }
+    ]
+  },
+  {
+    "id": "968409d3-8afe-446c-84d1-9597467fa616",
+    "stock": false,
+    "name": "Eco-Friendly Notepad",
+    "price": 0,
+    "category": "Office",
+    "description": "Notepad made from recycled paper for sustainable note-taking.",
+    "image": "http://dummyimage.com/150x.png/dddddd/000000",
+    "comments": [
+      { "rating": 5, "content": "Ut at dolor quis odio consequat varius." },
+      {
+        "rating": 4,
+        "content": "In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst."
+      },
+      {
+        "rating": 2,
+        "content": "Maecenas pulvinar lobortis est. Phasellus sit amet erat."
+      },
+      {
+        "rating": 4,
+        "content": "Morbi non quam nec dui luctus rutrum. Nulla tellus."
+      },
+      {
+        "rating": 4,
+        "content": "Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl. Duis ac nibh."
+      },
+      { "rating": 1, "content": "Fusce consequat." },
+      {
+        "rating": 3,
+        "content": "Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat."
+      },
+      {
+        "rating": 5,
+        "content": "Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna."
+      }
+    ]
+  },
+  {
+    "id": "5df05384-4360-44ba-9d0f-4c522118d19c",
+    "stock": false,
+    "name": "Magnetic Curtain Tiebacks",
+    "price": 0,
+    "category": "Home",
+    "description": "Easy-to-use tiebacks for curtains or drapes.",
+    "image": "http://dummyimage.com/150x.png/5fa2dd/ffffff",
+    "comments": [
+      {
+        "rating": 3,
+        "content": "Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo."
+      },
+      {
+        "rating": 5,
+        "content": "Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti."
+      },
+      {
+        "rating": 0,
+        "content": "Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat."
+      }
+    ]
+  },
+  {
+    "id": "cf3f6b06-9e6b-404c-8d5f-2f4febdccfdd",
+    "stock": true,
+    "name": "Frozen Acai Purée",
+    "price": 6.99,
+    "category": "Food - Frozen",
+    "description": "Unsweetened frozen acai purée for smoothies and bowls.",
+    "image": "http://dummyimage.com/150x.png/ff4444/ffffff",
+    "comments": [
+      {
+        "rating": 5,
+        "content": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl."
+      }
+    ]
+  },
+  {
+    "id": "b53c6a3f-6e99-48b4-bfcb-986671989f1e",
+    "stock": true,
+    "name": "Picnic Blanket",
+    "price": 29.99,
+    "category": "Outdoor",
+    "description": "Waterproof picnic blanket for outdoor fun.",
+    "image": "http://dummyimage.com/150x.png/ff4444/ffffff",
+    "comments": [
+      {
+        "rating": 2,
+        "content": "Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum."
+      },
+      {
+        "rating": 1,
+        "content": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi."
+      },
+      {
+        "rating": 5,
+        "content": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui."
+      },
+      {
+        "rating": 2,
+        "content": "Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum."
+      },
+      {
+        "rating": 4,
+        "content": "Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat."
+      },
+      {
+        "rating": 3,
+        "content": "Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat. Nulla tempus."
+      },
+      {
+        "rating": 0,
+        "content": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy."
+      },
+      {
+        "rating": 5,
+        "content": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique."
+      }
+    ]
+  },
+  {
+    "id": "6a3421b0-9a55-4e7f-8c53-76f6a53aa1d4",
+    "stock": false,
+    "name": "Sporty Leggings",
+    "price": 0,
+    "category": "Clothing - Activewear",
+    "description": "Functional leggings designed for maximum comfort during workouts.",
+    "image": "http://dummyimage.com/150x.png/cc0000/ffffff",
+    "comments": [
+      {
+        "rating": 0,
+        "content": "Duis at velit eu est congue elementum. In hac habitasse platea dictumst."
+      },
+      {
+        "rating": 5,
+        "content": "Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue."
+      },
+      {
+        "rating": 5,
+        "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus."
+      },
+      {
+        "rating": 4,
+        "content": "Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis."
+      },
+      {
+        "rating": 5,
+        "content": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla."
+      },
+      {
+        "rating": 0,
+        "content": "Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum."
+      }
+    ]
+  },
+  {
+    "id": "fefddd02-3fa4-472f-8c77-f4615b378e93",
+    "stock": true,
+    "name": "Microfiber Cleaning Cloth Set",
+    "price": 9.99,
+    "category": "Home",
+    "description": "Assorted cloths for cleaning electronics and delicate surfaces.",
+    "image": "http://dummyimage.com/150x.png/ff4444/ffffff",
+    "comments": [
+      {
+        "rating": 3,
+        "content": "Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa."
+      },
+      {
+        "rating": 1,
+        "content": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit."
+      },
+      {
+        "rating": 5,
+        "content": "Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+      },
+      {
+        "rating": 3,
+        "content": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis."
+      },
+      { "rating": 5, "content": "Fusce posuere felis sed lacus." },
+      {
+        "rating": 5,
+        "content": "Nullam molestie nibh in lectus. Pellentesque at nulla."
+      },
+      {
+        "rating": 1,
+        "content": "Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla."
+      }
+    ]
+  },
+  {
+    "id": "7c925ffa-f282-4510-b803-9a679ffd003e",
+    "stock": true,
+    "name": "Compact Folding Table",
+    "price": 49.99,
+    "category": "Outdoor",
+    "description": "Versatile folding table great for events or outdoor activities.",
+    "image": "http://dummyimage.com/150x.png/cc0000/ffffff",
+    "comments": [
+      {
+        "rating": 5,
+        "content": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia."
+      },
+      {
+        "rating": 2,
+        "content": "Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat."
+      },
+      { "rating": 3, "content": "Vivamus tortor." },
+      {
+        "rating": 3,
+        "content": "Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla."
+      }
+    ]
+  },
+  {
+    "id": "6600b114-cb36-48fd-8a7a-b4890bbf34ae",
+    "stock": true,
+    "name": "Savory Trail Mix",
+    "price": 4.29,
+    "category": "Food - Snacks",
+    "description": "A blend of nuts, seeds, and spices for a healthy snack.",
+    "image": "http://dummyimage.com/150x.png/dddddd/000000",
+    "comments": [
+      { "rating": 2, "content": "Mauris ullamcorper purus sit amet nulla." },
+      {
+        "rating": 0,
+        "content": "Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh."
+      },
+      {
+        "rating": 0,
+        "content": "Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat."
+      },
+      { "rating": 2, "content": "Maecenas tincidunt lacus at velit." },
+      { "rating": 3, "content": "Nullam porttitor lacus at turpis." },
+      {
+        "rating": 3,
+        "content": "Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna."
+      },
+      {
+        "rating": 3,
+        "content": "In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat."
+      },
+      {
+        "rating": 1,
+        "content": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor."
+      },
+      {
+        "rating": 4,
+        "content": "Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa."
+      },
+      {
+        "rating": 0,
+        "content": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti."
+      }
+    ]
+  },
+  {
+    "id": "c547fd79-0149-45e8-a200-a734e17cc9bc",
+    "stock": true,
+    "name": "Electric Kettle with Temperature Control",
+    "price": 49.99,
+    "category": "Kitchen",
+    "description": "Electric kettle that offers precise temperature settings.",
+    "image": "http://dummyimage.com/150x.png/5fa2dd/ffffff",
+    "comments": [
+      {
+        "rating": 3,
+        "content": "Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem."
+      },
+      {
+        "rating": 3,
+        "content": "Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus."
+      },
+      {
+        "rating": 0,
+        "content": "Etiam vel augue. Vestibulum rutrum rutrum neque."
+      },
+      {
+        "rating": 1,
+        "content": "Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
+      },
+      {
+        "rating": 0,
+        "content": "Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla."
+      }
+    ]
+  },
+  {
+    "id": "8a945ee8-1a4c-4635-ad09-a18bdbfba1df",
+    "stock": false,
+    "name": "Portable Phone Mug Holder",
+    "price": 0,
+    "category": "Automotive",
+    "description": "Convenient holder for drinks and phones while driving.",
+    "image": "http://dummyimage.com/150x.png/5fa2dd/ffffff",
+    "comments": [
+      {
+        "rating": 5,
+        "content": "Nulla tellus. In sagittis dui vel nisl. Duis ac nibh."
+      }
+    ]
+  },
+  {
+    "id": "a3763502-2a56-426b-96d4-b2655de6adae",
+    "stock": true,
+    "name": "Classic Black Trousers",
+    "price": 54.99,
+    "category": "Clothing - Pants",
+    "description": "Timeless black trousers for a smart and sophisticated look.",
+    "image": "http://dummyimage.com/150x.png/5fa2dd/ffffff",
+    "comments": [
+      {
+        "rating": 1,
+        "content": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
+      }
+    ]
+  },
+  {
+    "id": "3f0fbd56-2099-4b38-8f21-7b2be7dfabad",
+    "stock": true,
+    "name": "Yoga Blocks",
+    "price": 29.99,
+    "category": "Fitness",
+    "description": "Set of two yoga blocks for increased stability and support.",
+    "image": "http://dummyimage.com/150x.png/ff4444/ffffff",
+    "comments": [
+      {
+        "rating": 0,
+        "content": "Donec dapibus. Duis at velit eu est congue elementum."
+      },
+      {
+        "rating": 3,
+        "content": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque."
+      },
+      {
+        "rating": 5,
+        "content": "Curabitur gravida nisi at nibh. In hac habitasse platea dictumst."
+      },
+      {
+        "rating": 0,
+        "content": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "rating": 5,
+        "content": "Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede."
+      }
+    ]
+  },
+  {
+    "id": "6c1dc7fc-b7f1-4502-b591-8948d56ab9ad",
+    "stock": true,
+    "name": "LED Flashlight",
+    "price": 19.99,
+    "category": "Outdoor",
+    "description": "Bright LED flashlight with adjustable beam.",
+    "image": "http://dummyimage.com/150x.png/5fa2dd/ffffff",
+    "comments": [
+      {
+        "rating": 4,
+        "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue."
+      },
+      {
+        "rating": 2,
+        "content": "Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
+      },
+      {
+        "rating": 5,
+        "content": "Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum."
+      },
+      {
+        "rating": 1,
+        "content": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet."
+      },
+      {
+        "rating": 1,
+        "content": "Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis."
+      },
+      {
+        "rating": 0,
+        "content": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy."
+      },
+      {
+        "rating": 5,
+        "content": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc."
+      },
+      {
+        "rating": 0,
+        "content": "Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus."
+      },
+      {
+        "rating": 0,
+        "content": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis."
+      }
+    ]
+  },
+  {
+    "id": "7c056d15-ca11-405b-8ba7-e2d82bd4f4cb",
+    "stock": false,
+    "name": "Drone",
+    "price": 0,
+    "category": "Electronics",
+    "description": "Beginner-friendly drone with HD camera.",
+    "image": "http://dummyimage.com/150x.png/dddddd/000000",
+    "comments": [
+      {
+        "rating": 4,
+        "content": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla."
+      },
+      {
+        "rating": 5,
+        "content": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla."
+      }
+    ]
+  },
+  {
+    "id": "1693ae6f-9e12-43d3-a3e0-354dacce884d",
+    "stock": false,
+    "name": "Rice Pudding",
+    "price": 0,
+    "category": "Food - Desserts",
+    "description": "Creamy dessert made with rice and cinnamon.",
+    "image": "http://dummyimage.com/150x.png/cc0000/ffffff",
+    "comments": [
+      {
+        "rating": 1,
+        "content": "Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum."
+      },
+      {
+        "rating": 5,
+        "content": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus."
+      },
+      {
+        "rating": 0,
+        "content": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum."
+      },
+      {
+        "rating": 3,
+        "content": "Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam."
+      },
+      {
+        "rating": 1,
+        "content": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus."
+      },
+      {
+        "rating": 3,
+        "content": "Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat."
+      },
+      {
+        "rating": 5,
+        "content": "Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna."
+      }
+    ]
+  },
+  {
+    "id": "6d22a125-2b8c-42c4-a676-7526f4e2e20c",
+    "stock": false,
+    "name": "LED Strip Lights Kit",
+    "price": 0,
+    "category": "Home",
+    "description": "DIY LED strip lights with remote control.",
+    "image": "http://dummyimage.com/150x.png/dddddd/000000",
+    "comments": [
+      {
+        "rating": 5,
+        "content": "Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla."
+      },
+      {
+        "rating": 4,
+        "content": "In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem."
+      },
+      {
+        "rating": 1,
+        "content": "Nullam molestie nibh in lectus. Pellentesque at nulla."
+      },
+      {
+        "rating": 2,
+        "content": "Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum."
+      },
+      {
+        "rating": 0,
+        "content": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero."
+      },
+      {
+        "rating": 5,
+        "content": "Sed ante. Vivamus tortor. Duis mattis egestas metus. Aenean fermentum."
+      },
+      {
+        "rating": 1,
+        "content": "Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti."
+      },
+      {
+        "rating": 0,
+        "content": "Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit."
+      },
+      {
+        "rating": 1,
+        "content": "Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante."
+      }
+    ]
+  },
+  {
+    "id": "0195cd54-43c1-437f-8826-1115392567d4",
+    "stock": true,
+    "name": "LED Christmas Tree Lights",
+    "price": 34.99,
+    "category": "Home",
+    "description": "String lights for decorating holiday trees.",
+    "image": "http://dummyimage.com/150x.png/cc0000/ffffff",
+    "comments": [
+      {
+        "rating": 1,
+        "content": "Phasellus id sapien in sapien iaculis congue."
+      },
+      {
+        "rating": 1,
+        "content": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo."
+      }
+    ]
+  },
+  {
+    "id": "1a3520d9-81c5-45ad-9199-f20d365380fd",
+    "stock": true,
+    "name": "Pita Bread",
+    "price": 2.99,
+    "category": "Food - Bakery",
+    "description": "Soft pita bread, perfect for sandwiches or dips.",
+    "image": "http://dummyimage.com/150x.png/5fa2dd/ffffff",
+    "comments": [
+      {
+        "rating": 2,
+        "content": "Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula."
+      },
+      {
+        "rating": 2,
+        "content": "Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque."
+      },
+      {
+        "rating": 5,
+        "content": "Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio."
+      }
+    ]
+  },
+  {
+    "id": "3c04a303-f023-4748-8d57-e147df949312",
+    "stock": true,
+    "name": "Adjustable Pet Feeder",
+    "price": 39.99,
+    "category": "Pets",
+    "description": "Convenient feeder that adjusts to your pet's height.",
+    "image": "http://dummyimage.com/150x.png/5fa2dd/ffffff",
+    "comments": [
+      {
+        "rating": 2,
+        "content": "Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue."
+      },
+      {
+        "rating": 1,
+        "content": "In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst."
+      },
+      {
+        "rating": 1,
+        "content": "Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum."
+      },
+      {
+        "rating": 5,
+        "content": "Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo."
+      }
+    ]
+  },
+  {
+    "id": "61d5ce90-5f40-43a7-81b4-6f7dd290c323",
+    "stock": false,
+    "name": "Honey Nut Cheerios",
+    "price": 0,
+    "category": "Food - Cereal",
+    "description": "Classic cereal made with whole grains and honey.",
+    "image": "http://dummyimage.com/150x.png/5fa2dd/ffffff",
+    "comments": [
+      {
+        "rating": 5,
+        "content": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque."
+      }
+    ]
+  },
+  {
+    "id": "3fd42c94-83e6-4404-896a-74305c672a47",
+    "stock": true,
+    "name": "Pasta Sauce Mix",
+    "price": 1.29,
+    "category": "Food - Sauces",
+    "description": "Just add water for a quick pasta sauce.",
+    "image": "http://dummyimage.com/150x.png/cc0000/ffffff",
+    "comments": [
+      {
+        "rating": 4,
+        "content": "Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum."
+      },
+      {
+        "rating": 3,
+        "content": "In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem."
+      },
+      {
+        "rating": 4,
+        "content": "Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+      },
+      {
+        "rating": 2,
+        "content": "Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla."
+      },
+      {
+        "rating": 1,
+        "content": "Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci."
+      },
+      {
+        "rating": 3,
+        "content": "Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+      }
+    ]
+  },
+  {
+    "id": "dce6c6bd-bf76-404a-a89f-90b936834035",
+    "stock": false,
+    "name": "Cranberry Orange Oatmeal",
+    "price": 0,
+    "category": "Food - Breakfast",
+    "description": "Instant oatmeal flavored with cranberries and orange zest for breakfast.",
+    "image": "http://dummyimage.com/150x.png/cc0000/ffffff",
+    "comments": [
+      {
+        "rating": 3,
+        "content": "In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue."
+      },
+      {
+        "rating": 5,
+        "content": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis."
+      }
+    ]
+  },
+  {
+    "id": "26d7d838-5d78-442f-9504-1dec0dfea363",
+    "stock": true,
+    "name": "Fitness Tracker",
+    "price": 49.99,
+    "category": "Fitness",
+    "description": "Track steps, heart rate, and sleep patterns.",
+    "image": "http://dummyimage.com/150x.png/dddddd/000000",
+    "comments": [
+      {
+        "rating": 2,
+        "content": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat. Curabitur gravida nisi at nibh."
+      }
+    ]
+  },
+  {
+    "id": "9fbc9ee5-2d3f-4540-b0cd-db1a113b1869",
+    "stock": true,
+    "name": "Smart Thermostat",
+    "price": 149.99,
+    "category": "Smart Home",
+    "description": "Wi-Fi enabled thermostat for energy-saving temperature control.",
+    "image": "http://dummyimage.com/150x.png/cc0000/ffffff",
+    "comments": [
+      {
+        "rating": 3,
+        "content": "In congue. Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst."
+      },
+      {
+        "rating": 1,
+        "content": "Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio."
+      },
+      {
+        "rating": 3,
+        "content": "Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc."
+      },
+      {
+        "rating": 3,
+        "content": "Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis."
+      },
+      {
+        "rating": 4,
+        "content": "Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit."
+      },
+      {
+        "rating": 1,
+        "content": "Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices."
+      }
+    ]
+  },
+  {
+    "id": "d65b7f70-ceaf-4fc3-8d27-a350aef0f976",
+    "stock": false,
+    "name": "Soft Plush Throw Blanket",
+    "price": 0,
+    "category": "Home",
+    "description": "Cozy throw blanket perfect for chilly evenings.",
+    "image": "http://dummyimage.com/150x.png/5fa2dd/ffffff",
+    "comments": [
+      {
+        "rating": 5,
+        "content": "Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+      },
+      {
+        "rating": 1,
+        "content": "Pellentesque ultrices mattis odio. Donec vitae nisi."
+      },
+      {
+        "rating": 5,
+        "content": "In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy."
+      },
+      {
+        "rating": 1,
+        "content": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero."
+      }
+    ]
+  },
+  {
+    "id": "effec514-6890-4e12-a797-027ebcc38e04",
+    "stock": false,
+    "name": "Travel Sewing Kit",
+    "price": 0,
+    "category": "Travel",
+    "description": "Compact sewing kit for travel emergencies.",
+    "image": "http://dummyimage.com/150x.png/5fa2dd/ffffff",
+    "comments": [
+      {
+        "rating": 5,
+        "content": "Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis."
+      },
+      {
+        "rating": 5,
+        "content": "Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti."
+      }
+    ]
+  },
+  {
+    "id": "bed5b7dd-ff23-4d3d-a789-5b48f4c531e5",
+    "stock": true,
+    "name": "Gluten-Free Bread",
+    "price": 5.49,
+    "category": "Food - Bakery",
+    "description": "Soft and tasty gluten-free sandwich bread.",
+    "image": "http://dummyimage.com/150x.png/dddddd/000000",
+    "comments": [
+      {
+        "rating": 1,
+        "content": "Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum."
+      },
+      { "rating": 4, "content": "Morbi porttitor lorem id ligula." },
+      {
+        "rating": 4,
+        "content": "Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc."
+      },
+      {
+        "rating": 0,
+        "content": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus."
+      },
+      {
+        "rating": 1,
+        "content": "In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi."
+      },
+      {
+        "rating": 3,
+        "content": "Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc."
+      },
+      {
+        "rating": 1,
+        "content": "Morbi non quam nec dui luctus rutrum. Nulla tellus. In sagittis dui vel nisl."
+      },
+      {
+        "rating": 5,
+        "content": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat."
+      }
+    ]
+  },
+  {
+    "id": "1db3cc91-9ebe-4258-aadc-78f9b15640c6",
+    "stock": false,
+    "name": "Avocado Oil",
+    "price": 0,
+    "category": "Food - Oils",
+    "description": "A healthy oil extracted from avocados, ideal for frying and salads.",
+    "image": "http://dummyimage.com/150x.png/ff4444/ffffff",
+    "comments": [
+      {
+        "rating": 0,
+        "content": "Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue."
+      },
+      {
+        "rating": 2,
+        "content": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque."
+      },
+      {
+        "rating": 1,
+        "content": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus."
+      }
+    ]
+  },
+  {
+    "id": "ac1defaf-3cdd-442e-9fe9-838ff3b32cff",
+    "stock": false,
+    "name": "Organic Cucumber",
+    "price": 0,
+    "category": "Food - Vegetables",
+    "description": "Fresh organic cucumber perfect for salads or snacking.",
+    "image": "http://dummyimage.com/150x.png/cc0000/ffffff",
+    "comments": [
+      {
+        "rating": 2,
+        "content": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus."
+      },
+      {
+        "rating": 3,
+        "content": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor. Duis mattis egestas metus."
+      },
+      {
+        "rating": 1,
+        "content": "Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "rating": 0,
+        "content": "Phasellus in felis. Donec semper sapien a libero."
+      }
+    ]
+  },
+  {
+    "id": "b0f6e830-33c1-4cd5-b3a4-36dd6e103616",
+    "stock": false,
+    "name": "Biodegradable Dog Waste Bags",
+    "price": 0,
+    "category": "Pets",
+    "description": "Eco-friendly bags for picking up after your pet.",
+    "image": "http://dummyimage.com/150x.png/ff4444/ffffff",
+    "comments": [
+      {
+        "rating": 1,
+        "content": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis."
+      },
+      {
+        "rating": 3,
+        "content": "Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede."
+      },
+      {
+        "rating": 5,
+        "content": "Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat."
+      },
+      {
+        "rating": 3,
+        "content": "Nunc purus. Phasellus in felis. Donec semper sapien a libero."
+      },
+      {
+        "rating": 2,
+        "content": "In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
+      },
+      {
+        "rating": 3,
+        "content": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat."
+      },
+      {
+        "rating": 5,
+        "content": "Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla."
+      }
+    ]
+  },
+  {
+    "id": "efaf172e-9f31-4948-b089-173c99008a47",
+    "stock": false,
+    "name": "Roasted Garlic Butter",
+    "price": 0,
+    "category": "Food - Condiments",
+    "description": "A flavorful spread made with roasted garlic and creamy butter.",
+    "image": "http://dummyimage.com/150x.png/cc0000/ffffff",
+    "comments": [
+      {
+        "rating": 0,
+        "content": "Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue."
+      },
+      {
+        "rating": 4,
+        "content": "Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      },
+      {
+        "rating": 2,
+        "content": "Pellentesque ultrices mattis odio. Donec vitae nisi."
+      },
+      {
+        "rating": 1,
+        "content": "Pellentesque ultrices mattis odio. Donec vitae nisi."
+      },
+      { "rating": 4, "content": "Nulla ac enim." },
+      {
+        "rating": 0,
+        "content": "Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis."
+      },
+      {
+        "rating": 1,
+        "content": "Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris."
+      }
+    ]
+  },
+  {
+    "id": "a8c5ae30-d12d-4258-9c3f-6807316e6917",
+    "stock": true,
+    "name": "Throw Pillow Covers",
+    "price": 22.99,
+    "category": "Home",
+    "description": "Set of decorative pillow covers to enhance your home decor.",
+    "image": "http://dummyimage.com/150x.png/cc0000/ffffff",
+    "comments": [
+      {
+        "rating": 1,
+        "content": "Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique."
+      },
+      {
+        "rating": 2,
+        "content": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus."
+      },
+      {
+        "rating": 5,
+        "content": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio."
+      },
+      {
+        "rating": 0,
+        "content": "Duis mattis egestas metus. Aenean fermentum."
+      },
+      {
+        "rating": 4,
+        "content": "Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+      },
+      { "rating": 0, "content": "Cras non velit nec nisi vulputate nonummy." },
+      {
+        "rating": 4,
+        "content": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus."
+      },
+      {
+        "rating": 5,
+        "content": "Etiam justo. Etiam pretium iaculis justo. In hac habitasse platea dictumst."
+      },
+      { "rating": 1, "content": "Integer ac neque." },
+      {
+        "rating": 5,
+        "content": "Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque."
+      }
+    ]
+  },
+  {
+    "id": "60875ff3-dcc4-4fef-889f-2c61713f6fe0",
+    "stock": false,
+    "name": "Winter Insulated Jacket",
+    "price": 0,
+    "category": "Clothing",
+    "description": "Warm and stylish jacket for cold weather.",
+    "image": "http://dummyimage.com/150x.png/5fa2dd/ffffff",
+    "comments": [
+      {
+        "rating": 4,
+        "content": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat."
+      },
+      {
+        "rating": 2,
+        "content": "Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante."
+      },
+      {
+        "rating": 0,
+        "content": "Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum."
+      },
+      { "rating": 2, "content": "Suspendisse potenti." },
+      { "rating": 1, "content": "In blandit ultrices enim." },
+      {
+        "rating": 0,
+        "content": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+      },
+      {
+        "rating": 3,
+        "content": "In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus."
+      },
+      {
+        "rating": 0,
+        "content": "Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl."
+      },
+      {
+        "rating": 5,
+        "content": "In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa."
+      },
+      { "rating": 0, "content": "Etiam vel augue." }
+    ]
+  },
+  {
+    "id": "9b2af1df-d210-486b-928e-755dcdbea8c1",
+    "stock": true,
+    "name": "Mini Electric Kettle",
+    "price": 29.99,
+    "category": "Kitchen",
+    "description": "Quick boiling kettle for small kitchens and dorms.",
+    "image": "http://dummyimage.com/150x.png/dddddd/000000",
+    "comments": [
+      {
+        "rating": 3,
+        "content": "Aenean sit amet justo. Morbi ut odio. Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim."
+      }
+    ]
+  },
+  {
+    "id": "3d20e0c2-a0b9-42a6-ae21-a1947d7b95e6",
+    "stock": true,
+    "name": "Bock Beer Mustard",
+    "price": 2.29,
+    "category": "Food - Condiments",
+    "description": "Flavorful mustard with a tangy kick, perfect for hot dogs and sandwiches.",
+    "image": "http://dummyimage.com/150x.png/5fa2dd/ffffff",
+    "comments": [
+      {
+        "rating": 2,
+        "content": "Ut tellus. Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
+      },
+      {
+        "rating": 0,
+        "content": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo."
+      },
+      {
+        "rating": 2,
+        "content": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero."
+      },
+      {
+        "rating": 2,
+        "content": "Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus."
+      },
+      {
+        "rating": 1,
+        "content": "Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla."
+      },
+      {
+        "rating": 2,
+        "content": "Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl."
+      },
+      {
+        "rating": 1,
+        "content": "Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam."
+      }
+    ]
+  },
+  {
+    "id": "f6ee8483-21bd-4109-a132-b3537087e4e1",
+    "stock": false,
+    "name": "Electric Food Steamer",
+    "price": 0,
+    "category": "Kitchen",
+    "description": "Electric food steamer for healthy cooking.",
+    "image": "http://dummyimage.com/150x.png/5fa2dd/ffffff",
+    "comments": [
+      {
+        "rating": 3,
+        "content": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl."
+      },
+      {
+        "rating": 4,
+        "content": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
+      },
+      {
+        "rating": 2,
+        "content": "Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla."
+      },
+      {
+        "rating": 2,
+        "content": "Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum."
+      },
+      { "rating": 5, "content": "Sed vel enim sit amet nunc viverra dapibus." },
+      {
+        "rating": 0,
+        "content": "In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit."
+      },
+      {
+        "rating": 3,
+        "content": "Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius."
+      },
+      {
+        "rating": 5,
+        "content": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo."
+      },
+      {
+        "rating": 4,
+        "content": "Quisque id justo sit amet sapien dignissim vestibulum."
+      },
+      {
+        "rating": 1,
+        "content": "Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat."
+      }
+    ]
+  },
+  {
+    "id": "f9792ebe-d353-40fd-9156-24be3c185b4f",
+    "stock": true,
+    "name": "Bamboo Toothbrush",
+    "price": 5.99,
+    "category": "Health",
+    "description": "Eco-friendly bamboo toothbrush for sustainable living.",
+    "image": "http://dummyimage.com/150x.png/5fa2dd/ffffff",
+    "comments": [
+      {
+        "rating": 5,
+        "content": "Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit."
+      },
+      {
+        "rating": 3,
+        "content": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis."
+      },
+      {
+        "rating": 2,
+        "content": "Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
+      },
+      {
+        "rating": 4,
+        "content": "Pellentesque ultrices mattis odio. Donec vitae nisi."
+      }
+    ]
+  },
+  {
+    "id": "f4ef4377-eaec-4035-95af-fa3777ba5172",
+    "stock": true,
+    "name": "Banana Peanut Butter Smoothie",
+    "price": 5.49,
+    "category": "Food - Frozen Foods",
+    "description": "Frozen smoothie mix with bananas and peanut butter for a quick drink.",
+    "image": "http://dummyimage.com/150x.png/5fa2dd/ffffff",
+    "comments": [
+      {
+        "rating": 3,
+        "content": "Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi."
+      }
+    ]
+  },
+  {
+    "id": "cf58dc4b-e218-4ddb-954b-b84da93e31df",
+    "stock": true,
+    "name": "Harvest Grain Salad",
+    "price": 5.49,
+    "category": "Food - Salads",
+    "description": "A hearty salad with grains, dried fruits, and nuts.",
+    "image": "http://dummyimage.com/150x.png/dddddd/000000",
+    "comments": [
+      {
+        "rating": 2,
+        "content": "Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit."
+      },
+      {
+        "rating": 5,
+        "content": "Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum."
+      },
+      {
+        "rating": 4,
+        "content": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi."
+      }
+    ]
+  },
+  {
+    "id": "3333f9c3-8d79-4d06-8bf3-f010c5506fca",
+    "stock": true,
+    "name": "Classic Slim Fit Shirt",
+    "price": 49.99,
+    "category": "Clothing - Shirts",
+    "description": "A tailored slim fit shirt for a polished look at work.",
+    "image": "http://dummyimage.com/150x.png/5fa2dd/ffffff",
+    "comments": [
+      {
+        "rating": 2,
+        "content": "Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante."
+      }
+    ]
+  },
+  {
+    "id": "ad46bffc-3ff3-486f-83a6-b1781c9abcdb",
+    "stock": true,
+    "name": "Wireless Charger Stand",
+    "price": 24.99,
+    "category": "Electronics",
+    "description": "Convenient charging stand for smartphones and devices.",
+    "image": "http://dummyimage.com/150x.png/dddddd/000000",
+    "comments": [
+      {
+        "rating": 1,
+        "content": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla."
+      },
+      {
+        "rating": 2,
+        "content": "Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus."
+      }
+    ]
+  },
+  {
+    "id": "89c6197e-cc3d-4013-af14-9f72036072ae",
+    "stock": false,
+    "name": "Balsamic Glazed Brussels Sprouts",
+    "price": 0,
+    "category": "Food - Vegetables",
+    "description": "Roasted Brussels sprouts drizzled with balsamic glaze.",
+    "image": "http://dummyimage.com/150x.png/ff4444/ffffff",
+    "comments": []
+  },
+  {
+    "id": "9c2ec4fb-6544-425e-926e-74590bc317f0",
+    "stock": true,
+    "name": "Pretzel Bites",
+    "price": 4.99,
+    "category": "Food - Snacks",
+    "description": "Soft pretzel bites, perfect for dipping in mustard or cheese sauce.",
+    "image": "http://dummyimage.com/150x.png/ff4444/ffffff",
+    "comments": [
+      {
+        "rating": 5,
+        "content": "Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet."
+      },
+      {
+        "rating": 0,
+        "content": "Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien."
+      },
+      {
+        "rating": 4,
+        "content": "Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis."
+      },
+      {
+        "rating": 1,
+        "content": "Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci."
+      },
+      {
+        "rating": 4,
+        "content": "Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor."
+      },
+      {
+        "rating": 5,
+        "content": "Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit."
+      }
+    ]
+  },
+  {
+    "id": "f48e0722-af1a-4f3f-b2ef-d9f827ca7fce",
+    "stock": false,
+    "name": "Sweet Potato Fries",
+    "price": 0,
+    "category": "Food - Frozen Foods",
+    "description": "Crispy sweet potato fries, a delicious side dish.",
+    "image": "http://dummyimage.com/150x.png/5fa2dd/ffffff",
+    "comments": [
+      {
+        "rating": 0,
+        "content": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros."
+      },
+      {
+        "rating": 3,
+        "content": "Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci."
+      },
+      { "rating": 4, "content": "Nulla tempus." },
+      {
+        "rating": 3,
+        "content": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis."
+      },
+      { "rating": 3, "content": "Morbi non quam nec dui luctus rutrum." },
+      {
+        "rating": 2,
+        "content": "Donec dapibus. Duis at velit eu est congue elementum. In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante."
+      },
+      {
+        "rating": 2,
+        "content": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien."
+      },
+      {
+        "rating": 0,
+        "content": "Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat."
+      },
+      {
+        "rating": 5,
+        "content": "Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis."
+      }
+    ]
+  },
+  {
+    "id": "2f63cd08-b01d-4470-9833-a11cdcd8a409",
+    "stock": false,
+    "name": "Whole Grain Hamburger Buns",
+    "price": 0,
+    "category": "Food - Bakery",
+    "description": "Soft hamburger buns made with whole grains.",
+    "image": "http://dummyimage.com/150x.png/cc0000/ffffff",
+    "comments": [
+      {
+        "rating": 0,
+        "content": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero."
+      },
+      {
+        "rating": 0,
+        "content": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros."
+      },
+      {
+        "rating": 2,
+        "content": "Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl."
+      },
+      {
+        "rating": 1,
+        "content": "Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus."
+      },
+      {
+        "rating": 5,
+        "content": "Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique."
+      },
+      {
+        "rating": 3,
+        "content": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo."
+      },
+      {
+        "rating": 3,
+        "content": "Etiam pretium iaculis justo. In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus. Nulla ut erat id mauris vulputate elementum."
+      },
+      {
+        "rating": 0,
+        "content": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante."
+      },
+      {
+        "rating": 1,
+        "content": "Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat."
+      }
+    ]
+  },
+  {
+    "id": "c583efca-ed9d-4ea2-9554-5fe1d8ebfe70",
+    "stock": true,
+    "name": "Motion Sensor Light",
+    "price": 19.99,
+    "category": "Home",
+    "description": "Battery-operated motion sensor light for safety.",
+    "image": "http://dummyimage.com/150x.png/ff4444/ffffff",
+    "comments": [
+      {
+        "rating": 2,
+        "content": "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue."
+      },
+      {
+        "rating": 1,
+        "content": "Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl."
+      },
+      {
+        "rating": 3,
+        "content": "Cras pellentesque volutpat dui. Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam."
+      }
+    ]
+  },
+  {
+    "id": "c29696d3-d895-413b-8e53-60843bfaf52a",
+    "stock": false,
+    "name": "Hiking Water Bottle with Filter",
+    "price": 0,
+    "category": "Outdoor",
+    "description": "8oz water bottle with built-in filter for clean drinking water.",
+    "image": "http://dummyimage.com/150x.png/cc0000/ffffff",
+    "comments": [{ "rating": 5, "content": "Mauris sit amet eros." }]
+  },
+  {
+    "id": "45559e21-be64-4f4a-946e-9b0ab7dc951a",
+    "stock": false,
+    "name": "Spinach and Cheese Stuffed Shells",
+    "price": 0,
+    "category": "Food - Frozen Meals",
+    "description": "Delicious pasta shells filled with spinach and cheese",
+    "image": "http://dummyimage.com/150x.png/cc0000/ffffff",
+    "comments": [
+      {
+        "rating": 5,
+        "content": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla."
+      },
+      {
+        "rating": 4,
+        "content": "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo."
+      },
+      {
+        "rating": 5,
+        "content": "Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem."
+      }
+    ]
+  },
+  {
+    "id": "c1712455-6361-48bf-a284-01e0379da293",
+    "stock": true,
+    "name": "Almond Crunch Granola Bars",
+    "price": 3.49,
+    "category": "Food - Snacks",
+    "description": "Nutty granola bars for healthy snacking.",
+    "image": "http://dummyimage.com/150x.png/cc0000/ffffff",
+    "comments": [
+      {
+        "rating": 2,
+        "content": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis."
+      },
+      {
+        "rating": 1,
+        "content": "Suspendisse potenti. Nullam porttitor lacus at turpis."
+      },
+      { "rating": 1, "content": "Maecenas tincidunt lacus at velit." },
+      {
+        "rating": 1,
+        "content": "Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti."
+      },
+      {
+        "rating": 4,
+        "content": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla."
+      }
+    ]
+  },
+  {
+    "id": "6cf20d7c-0fc1-41ba-938f-9a3ee2f5f1de",
+    "stock": true,
+    "name": "Silicone Cooking Utensils Set",
+    "price": 34.99,
+    "category": "Kitchen",
+    "description": "Non-stick and heat-resistant utensils for cooking.",
+    "image": "http://dummyimage.com/150x.png/cc0000/ffffff",
+    "comments": [
+      { "rating": 5, "content": "Aenean sit amet justo. Morbi ut odio." },
+      {
+        "rating": 2,
+        "content": "Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum."
+      },
+      {
+        "rating": 2,
+        "content": "Aliquam quis turpis eget elit sodales scelerisque."
+      },
+      {
+        "rating": 2,
+        "content": "In hac habitasse platea dictumst. Etiam faucibus cursus urna."
+      },
+      {
+        "rating": 2,
+        "content": "Proin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi."
+      }
+    ]
+  },
+  {
+    "id": "cbb6268d-4f58-4fa5-b224-defcdd29b30a",
+    "stock": true,
+    "name": "Biodegradable Trash Bags",
+    "price": 12.99,
+    "category": "Home",
+    "description": "Eco-friendly trash bags that break down naturally.",
+    "image": "http://dummyimage.com/150x.png/5fa2dd/ffffff",
+    "comments": [
+      { "rating": 3, "content": "Maecenas pulvinar lobortis est." },
+      {
+        "rating": 2,
+        "content": "Nulla tempus. Vivamus in felis eu sapien cursus vestibulum."
+      },
+      {
+        "rating": 1,
+        "content": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti. Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus."
+      },
+      {
+        "rating": 4,
+        "content": "Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum."
+      },
+      {
+        "rating": 0,
+        "content": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo."
+      }
+    ]
+  },
+  {
+    "id": "1695d737-884c-4e17-928e-d3f1f8fea90f",
+    "stock": false,
+    "name": "Toilet Paper (12 rolls)",
+    "price": 0,
+    "category": "Food - Household",
+    "description": "Soft and strong toilet paper for everyday use.",
+    "image": "http://dummyimage.com/150x.png/ff4444/ffffff",
+    "comments": [
+      {
+        "rating": 1,
+        "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis."
+      },
+      {
+        "rating": 3,
+        "content": "Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui."
+      },
+      {
+        "rating": 2,
+        "content": "In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa."
+      },
+      {
+        "rating": 2,
+        "content": "Aliquam erat volutpat. In congue. Etiam justo."
+      },
+      {
+        "rating": 3,
+        "content": "In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl."
+      },
+      {
+        "rating": 2,
+        "content": "Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh."
+      },
+      {
+        "rating": 2,
+        "content": "Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat."
+      }
+    ]
+  },
+  {
+    "id": "103be807-24a9-437e-995d-ff57e9fe989e",
+    "stock": true,
+    "name": "LED Canopy Lights",
+    "price": 29.99,
+    "category": "Outdoor",
+    "description": "Energy-efficient lights to illuminate outdoor areas.",
+    "image": "http://dummyimage.com/150x.png/ff4444/ffffff",
+    "comments": [
+      {
+        "rating": 1,
+        "content": "Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi."
+      },
+      {
+        "rating": 4,
+        "content": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque."
+      },
+      {
+        "rating": 1,
+        "content": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "rating": 2,
+        "content": "Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis."
+      },
+      {
+        "rating": 0,
+        "content": "Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus."
+      },
+      {
+        "rating": 3,
+        "content": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus."
+      },
+      {
+        "rating": 5,
+        "content": "Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem."
+      }
+    ]
+  },
+  {
+    "id": "c8e91200-9daa-42d9-9c1f-8cad22154d0b",
+    "stock": true,
+    "name": "Pet Travel Bowl",
+    "price": 10.99,
+    "category": "Pets",
+    "description": "Collapsible travel bowl for pets on the go.",
+    "image": "http://dummyimage.com/150x.png/5fa2dd/ffffff",
+    "comments": []
+  },
+  {
+    "id": "eedd8a11-5f4e-40e7-afbc-95401f859b23",
+    "stock": true,
+    "name": "Interchangeable Watch Bands",
+    "price": 24.99,
+    "category": "Accessories",
+    "description": "Set of stylish watch bands to customize your look.",
+    "image": "http://dummyimage.com/150x.png/cc0000/ffffff",
+    "comments": [
+      {
+        "rating": 1,
+        "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus. Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis."
+      },
+      {
+        "rating": 5,
+        "content": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio."
+      },
+      {
+        "rating": 5,
+        "content": "Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula."
+      }
+    ]
+  },
+  {
+    "id": "245e8d7f-ee46-403c-9cf4-da20ada63e86",
+    "stock": false,
+    "name": "Roasted Chickpeas",
+    "price": 0,
+    "category": "Food - Snacks",
+    "description": "Crispy roasted chickpeas seasoned to perfection",
+    "image": "http://dummyimage.com/150x.png/cc0000/ffffff",
+    "comments": [
+      { "rating": 1, "content": "Proin eu mi." },
+      {
+        "rating": 2,
+        "content": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo."
+      },
+      {
+        "rating": 1,
+        "content": "Phasellus in felis. Donec semper sapien a libero."
+      },
+      {
+        "rating": 0,
+        "content": "Nulla facilisi. Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat."
+      },
+      {
+        "rating": 4,
+        "content": "Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus."
+      },
+      {
+        "rating": 5,
+        "content": "Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum."
+      },
+      {
+        "rating": 5,
+        "content": "Aliquam erat volutpat. In congue. Etiam justo."
+      },
+      { "rating": 0, "content": "Morbi vel lectus in quam fringilla rhoncus." }
+    ]
+  },
+  {
+    "id": "9a8494e4-dfad-41cd-9d6a-8ce4a4a40f64",
+    "stock": false,
+    "name": "Wall Planner",
+    "price": 0,
+    "category": "Office",
+    "description": "Large wall planner for organizing schedules.",
+    "image": "http://dummyimage.com/150x.png/ff4444/ffffff",
+    "comments": [
+      { "rating": 4, "content": "Fusce consequat. Nulla nisl." },
+      {
+        "rating": 4,
+        "content": "Duis at velit eu est congue elementum. In hac habitasse platea dictumst."
+      },
+      {
+        "rating": 2,
+        "content": "Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum."
+      },
+      {
+        "rating": 5,
+        "content": "Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci."
+      },
+      {
+        "rating": 1,
+        "content": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat."
+      },
+      {
+        "rating": 1,
+        "content": "Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum."
+      },
+      {
+        "rating": 1,
+        "content": "Ut at dolor quis odio consequat varius. Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi."
+      },
+      {
+        "rating": 3,
+        "content": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
+      },
+      {
+        "rating": 4,
+        "content": "Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci."
+      }
+    ]
+  },
+  {
+    "id": "cb9e2939-b9b9-440c-99e8-8c56e7325f33",
+    "stock": true,
+    "name": "Roasted Chickpeas",
+    "price": 2.99,
+    "category": "Food - Snacks",
+    "description": "Crispy roasted chickpeas seasoned to perfection",
+    "image": "http://dummyimage.com/150x.png/dddddd/000000",
+    "comments": [
+      {
+        "rating": 5,
+        "content": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus."
+      },
+      {
+        "rating": 1,
+        "content": "Donec quis orci eget orci vehicula condimentum. Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est. Phasellus sit amet erat."
+      },
+      { "rating": 4, "content": "Nulla suscipit ligula in lacus." },
+      {
+        "rating": 2,
+        "content": "Nulla mollis molestie lorem. Quisque ut erat."
+      },
+      {
+        "rating": 1,
+        "content": "Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit."
+      },
+      { "rating": 1, "content": "Nulla ac enim." },
+      {
+        "rating": 1,
+        "content": "In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat."
+      },
+      {
+        "rating": 1,
+        "content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus. Praesent lectus."
+      }
+    ]
+  },
+  {
+    "id": "8b861a20-9914-4f63-bdb8-764ea5592a56",
+    "stock": true,
+    "name": "Adjustable Pet Feeder",
+    "price": 39.99,
+    "category": "Pets",
+    "description": "Convenient feeder that adjusts to your pet's height.",
+    "image": "http://dummyimage.com/150x.png/ff4444/ffffff",
+    "comments": [
+      {
+        "rating": 3,
+        "content": "Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue."
+      },
+      {
+        "rating": 1,
+        "content": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus."
+      },
+      {
+        "rating": 1,
+        "content": "Vestibulum quam sapien, varius ut, blandit non, interdum in, ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Duis faucibus accumsan odio. Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor."
+      },
+      {
+        "rating": 1,
+        "content": "Donec posuere metus vitae ipsum. Aliquam non mauris. Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus."
+      },
+      {
+        "rating": 0,
+        "content": "Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo. Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante."
+      },
+      {
+        "rating": 5,
+        "content": "Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
+      },
+      {
+        "rating": 0,
+        "content": "In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa."
+      },
+      {
+        "rating": 2,
+        "content": "Integer ac leo. Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus."
+      }
+    ]
+  },
+  {
+    "id": "4d8f9741-a144-45bc-bfce-bb8d61d02930",
+    "stock": true,
+    "name": "Cauliflower Pizza Crust",
+    "price": 5.99,
+    "category": "Food - Frozen Foods",
+    "description": "Healthy pizza crust made from cauliflower",
+    "image": "http://dummyimage.com/150x.png/5fa2dd/ffffff",
+    "comments": [
+      {
+        "rating": 3,
+        "content": "Pellentesque ultrices mattis odio. Donec vitae nisi."
+      },
+      {
+        "rating": 5,
+        "content": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi."
+      },
+      {
+        "rating": 2,
+        "content": "Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor."
+      },
+      {
+        "rating": 4,
+        "content": "In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem. Duis aliquam convallis nunc."
+      },
+      {
+        "rating": 5,
+        "content": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem."
+      },
+      {
+        "rating": 5,
+        "content": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus."
+      },
+      {
+        "rating": 4,
+        "content": "Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum."
+      },
+      {
+        "rating": 5,
+        "content": "Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum."
+      },
+      {
+        "rating": 5,
+        "content": "Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis."
+      }
+    ]
+  },
+  {
+    "id": "d3526876-fbf8-4f40-9580-771ae04e87ba",
+    "stock": false,
+    "name": "Chili Con Carne Mix",
+    "price": 0,
+    "category": "Food - Spices & Seasonings",
+    "description": "A spice blend for making flavorful chili con carne.",
+    "image": "http://dummyimage.com/150x.png/5fa2dd/ffffff",
+    "comments": []
+  },
+  {
+    "id": "3465d7f7-b444-4b83-bc5c-b5006b71eb59",
+    "stock": false,
+    "name": "Berries Medley",
+    "price": 0,
+    "category": "Food - Produce",
+    "description": "A mix of fresh raspberries, blueberries, and blackberries.",
+    "image": "http://dummyimage.com/150x.png/cc0000/ffffff",
+    "comments": [
+      {
+        "rating": 4,
+        "content": "Pellentesque ultrices mattis odio. Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla. Sed vel enim sit amet nunc viverra dapibus. Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum."
+      },
+      {
+        "rating": 2,
+        "content": "Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet. Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo."
+      },
+      { "rating": 3, "content": "Donec semper sapien a libero. Nam dui." },
+      {
+        "rating": 0,
+        "content": "In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa."
+      }
+    ]
+  },
+  {
+    "id": "e3c94dea-5dff-4950-b76c-67f21146014f",
+    "stock": true,
+    "name": "Repair Tool Set for Home Improvement",
+    "price": 29.99,
+    "category": "Tools",
+    "description": "Small toolkit with essentials for home repairs.",
+    "image": "http://dummyimage.com/150x.png/dddddd/000000",
+    "comments": [
+      {
+        "rating": 3,
+        "content": "Donec vitae nisi. Nam ultrices, libero non mattis pulvinar, nulla pede ullamcorper augue, a suscipit nulla elit ac nulla."
+      },
+      {
+        "rating": 2,
+        "content": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus. Suspendisse potenti. In eleifend quam a odio."
+      },
+      {
+        "rating": 5,
+        "content": "Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit. Nam nulla."
+      },
+      {
+        "rating": 2,
+        "content": "Donec posuere metus vitae ipsum. Aliquam non mauris."
+      },
+      {
+        "rating": 1,
+        "content": "Suspendisse potenti. Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien."
+      },
+      {
+        "rating": 5,
+        "content": "Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros."
+      },
+      { "rating": 1, "content": "Duis bibendum." },
+      {
+        "rating": 1,
+        "content": "Quisque ut erat. Curabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem. Integer tincidunt ante vel ipsum. Praesent blandit lacinia erat."
+      }
+    ]
+  },
+  {
+    "id": "6d0c2533-2110-4dd9-9cce-35302f201973",
+    "stock": true,
+    "name": "Summer Tank Dress",
+    "price": 39.99,
+    "category": "Clothing - Dresses",
+    "description": "A lightweight tank dress, ideal for warm weather outings.",
+    "image": "http://dummyimage.com/150x.png/cc0000/ffffff",
+    "comments": [
+      {
+        "rating": 1,
+        "content": "In hac habitasse platea dictumst. Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat."
+      },
+      {
+        "rating": 2,
+        "content": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus. Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero."
+      },
+      {
+        "rating": 0,
+        "content": "Nulla tellus. In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus."
+      },
+      {
+        "rating": 4,
+        "content": "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam."
+      },
+      {
+        "rating": 1,
+        "content": "Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh."
+      },
+      {
+        "rating": 4,
+        "content": "Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat. In congue. Etiam justo. Etiam pretium iaculis justo."
+      },
+      {
+        "rating": 0,
+        "content": "Maecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti."
+      },
+      { "rating": 5, "content": "Integer a nibh." },
+      {
+        "rating": 2,
+        "content": "Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros."
+      },
+      {
+        "rating": 1,
+        "content": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros."
+      }
+    ]
+  }
+]
