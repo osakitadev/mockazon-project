@@ -10,3 +10,10 @@ This project took inspiration from Amazon's design, so that's why its so similar
 2. Open the project folder
 3. Run `pnpm install`
 4. Run `pnpm dev`
+
+## TODO
+
+- [] Make the shopping cart work!
+- [x] Lazy loading (kinda)
+- [x] Design the website
+- [x] Responsive design
