@@ -30,7 +30,7 @@
           height="20"
         />
         <span
-          id="products-cart"
+          id="products-in-cart"
           class="absolute left-6 bottom-[-10px] text-sm font-bold text-white"
           >0</span
         >
@@ -59,6 +59,41 @@
         class="grid grid-cols-2 gap-4 md:grid-cols-4 sm:grid-cols-3 xl:grid-cols-8"
       ></section>
     </main>
+
+    <!-- MODALS -->
+    <div
+      id="modal-cart"
+      class="fixed w-full h-full top-0 left-0 z-10 bg-[#0000006e] backdrop-blur-xs flex items-center justify-center hidden"
+    >
+      <div
+        class="bg-[#fefefe] w-[80%] max-w-[650px] h-[80%] shadow-2xl rounded-md p-4 flex flex-col gap-4"
+      >
+        <header class="flex justify-around items-center gap-8">
+          <h2
+            class="flex-1 text-2xl font-semibold leading-4 tracking-wide text-zinc-800"
+          >
+            SHOPPING CART
+          </h2>
+
+          <button
+            class="text-lg hover:cursor-pointer text-black font-bold"
+            id="close-cart-modal"
+          >
+            X
+          </button>
+        </header>
+
+        <hr class="text-zinc-200" />
+
+        <div id="cart-list" class="flex flex-col gap-4 overflow-y-scroll"></div>
+      </div>
+    </div>
+
+    <!-- NOTIFICATIONS -->
+    <div
+      class="fixed -right-1 bottom-12 h-auto max-h-[300px] w-[200px] flex flex-col gap-2"
+      id="popups"
+    ></div>
 
     <script type="module" src="/src/main.js"></script>
   </body>
