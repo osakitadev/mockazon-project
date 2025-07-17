@@ -9,6 +9,7 @@ export default function createProductCard({
 }) {
   const priceWhole = String(price).split('.')[0]
   const priceFraction = String(price).split('.')[1]
+  const categoryAttribute = category.replaceAll(' ', '').toLowerCase()
 
   $productList.insertAdjacentHTML(
     'beforeend',
@@ -18,6 +19,7 @@ export default function createProductCard({
             data-product-price-whole="${priceWhole ?? 0}"
             data-product-price-fraction="${priceFraction ?? 0}"
             data-product-description="${description}"
+            data-product-category="${categoryAttribute}"
           >
             <section
               class="product-image-wrapper bg-[#f7f7f7] relative px-2 w-ful"
