@@ -11,15 +11,21 @@ export const POPUP_TYPES = {
   normal: 'normal',
 }
 
+const COLOR_MAP = {
+  [POPUP_TYPES.normal]: 'bg-blue-500',
+  [POPUP_TYPES.error]: 'bg-red-500',
+}
+
 export default function createPopup({ message, type = 'normal' }) {
   const popupElement = document.createElement('div')
   popupElement.textContent = message
   popupElement.classList.add(
-    `bg-${type === POPUP_TYPES.normal ? 'blue' : 'red'}-500`,
+    COLOR_MAP[type],
     'px-2',
     'text-white',
     'font-semibold',
-    'rounded-sm'
+    'rounded-sm',
+    'w-full'
   )
 
   $popups.appendChild(popupElement)
