@@ -13,7 +13,8 @@ This project took inspiration from Amazon's design, so that's why its so similar
 
 ## TODO
 
-- [] Make the shopping cart work!
+- [x] Make the shopping cart work!
 - [x] Lazy loading (kinda)
 - [x] Design the website
 - [x] Responsive design
+- [x] Product filtering
